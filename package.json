@@ -1,0 +1,22 @@
+{
+  "name": "practiceproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/My-Github-NehaYadav/PracticeProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/My-Github-NehaYadav/PracticeProject/issues"
+  },
+  "homepage": "https://github.com/My-Github-NehaYadav/PracticeProject#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
